@@ -41,10 +41,6 @@ Users can navigate through questions, skip them, and view a summary at the end.
 ![Quiz UI](screenshots/Summary%20Screen.png)
 ![Quiz UI](screenshots/Restart%20Quiz%20Option.png)
 
-### Summary Screen:
-
-![Quiz Summary](screenshots/quiz-summary.png)
-
 ## Video Walkthrough
 
 [Watch Demo](videos/quiz-demo.mp4.mp4)
